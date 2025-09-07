@@ -11,5 +11,5 @@ repositories {
 
 dependencies {
     compileOnly fileTree(dir: 'libs', include: ['*.jar'])
-    compileOnly fileTree(dir: 'C:/Program Files/JetBrains/IntelliJ IDEA 2024.3.5/lib', include: ['*/**.jar', '*.jar'])
+    compileOnly fileTree(dir: 'X:/dev/JetBrains/IntelliJ IDEA 2025.2/lib', include: ['*/**.jar', '*.jar'])
 }
